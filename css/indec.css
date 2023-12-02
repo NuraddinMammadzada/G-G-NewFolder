@@ -1,0 +1,107 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(54, 147, 54);
+}
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 254, 254);
+    display: inline-block;
+    font-weight: bold   ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 16px;
+}
+
+a:hover {
+    background-color: green;
+}
+body {
+    background-color: aliceblue;
+}
+.button1 {
+    border: none;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: rgb(0, 21, 255);
+    border-radius: 12px;
+    border-radius: 12px;
+  }
+  .button2 {
+    border: none;
+    color: white;
+    padding: 20px; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: rgb(0, 21, 255);
+    border-radius: 12px;
+  }
+  .button3 {
+    border: none;
+    color: rgb(255, 253, 253);
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 12px;
+  }
+  .button4 {
+    background-color:  #04AA6D;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+  }
+  .button5 {
+    background-color:  #d7980e;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+  }
+  .button6{
+    background-color:  #234e77;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+  }
+  h1 {
+    color: rgb(78, 78, 78);
+    /* margin: 0px; */
+  }
+  h2 {
+    color: rgb(78, 78, 78);
+  }
+img{
+    border-radius: 12px;
+}
+/* iframe {
+  border-radius: 80px;
+} */
