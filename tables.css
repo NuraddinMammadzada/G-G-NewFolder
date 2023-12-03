@@ -1,0 +1,19 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 70%;
+}
+td {
+    height: 35%;
+}
+thead {
+    background-color: yellow;
+}
+tfoot {
+    background-color: lightgray;
+}
