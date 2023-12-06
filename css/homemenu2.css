@@ -1,21 +1,24 @@
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: rgb(54, 147, 54);
+ul.menu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background-color: #53a24e;
 }
 
-li {
-    display: inline;
+ul.menu li {
+  display: inline;
 }
 
-a {
-    text-decoration: none;
-    color: rgb(255, 254, 254);
-    display: inline-block;
-    font-weight: bold   ;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 16px;
+ul.menu li a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 16px;
+  font-weight: bold;
+  color: #f5f7f8;
+}
+
+ul.menu li a:hover {
+  background-color: #4f6f52;
 }
 
 a:hover {
