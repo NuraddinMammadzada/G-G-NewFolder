@@ -22,7 +22,7 @@ body{
 }
 .li4{
     float: left;
-    display: inline;
+    display: inline-block;
     border: 10px solid;
     margin: 0px;
     padding: 0px;
