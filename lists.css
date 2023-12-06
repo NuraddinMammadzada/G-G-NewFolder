@@ -19,12 +19,11 @@ body{
             margin: 0;
             padding: 0;
             background-color: #000000;
-            overflow: hidden;
 }
 .li4{
     float: left;
-    display: block;
-    border: 10px solid black;
+    display: inline;
+    border: 10px solid;
     margin: 0px;
     padding: 0px;
     background-color: black;
