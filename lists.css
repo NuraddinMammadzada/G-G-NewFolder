@@ -34,3 +34,12 @@ body{
     text-decoration: none;
     color: white;
 }
+li {
+    background-size: 16px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
