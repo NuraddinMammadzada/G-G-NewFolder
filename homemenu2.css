@@ -1,11 +1,11 @@
-.lm {
+.lm ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     background-color: rgb(54, 147, 54);
 }
 
-.lm {
+.lm li {
     display: inline;
 }
 
