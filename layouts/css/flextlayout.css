@@ -1,0 +1,46 @@
+header,
+footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+header,
+footer,
+nav,
+article {
+    padding: 24px;
+}
+
+nav {
+    background-color: burlywood;
+    flex: 3;
+}
+
+article {
+    background-color: chocolate;
+    flex: 7;
+}
+
+/*  */
+
+section {
+    display: flex;
+}
+li{
+    list-style-type: none;
+}
+a {
+    color: rgb(43, 0, 255);
+    
+}
+a :hover {
+    color: aqua;
+    background-color: aqua;
+}
+
+@media (max-witdh: 450px) {
+   section {
+    flex-direction: column;
+   }
+}
