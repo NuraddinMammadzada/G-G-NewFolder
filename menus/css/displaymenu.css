@@ -1,0 +1,22 @@
+ul.DMenu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #662549;
+  }
+  
+  ul.DMenu li {
+    display: inline;
+  }
+  
+  ul.DMenu li a {
+    text-decoration: none;
+    color: #f5f7f8;
+    font-weight: bold;
+    padding: 16px;
+    display: inline-block;
+  }
+  
+  ul.DMenu li a:hover {
+    background-color: #b94987;
+  }
