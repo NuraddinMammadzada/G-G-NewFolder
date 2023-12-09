@@ -1,8 +1,8 @@
 ul.DMenu {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
-    background-color: #662549;
+    padding: 0px;
+    margin: 0px;
+    background-color: #ad417c;
   }
   
   ul.DMenu li {
@@ -11,7 +11,7 @@ ul.DMenu {
   
   ul.DMenu li a {
     text-decoration: none;
-    color: #f5f7f8;
+    color: white;
     font-weight: bold;
     padding: 16px;
     display: inline-block;
